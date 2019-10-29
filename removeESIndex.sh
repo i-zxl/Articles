@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# linux 环境执行，替换host:port
 num=50
  
 while [ $num -gt 30 ];
@@ -10,6 +11,6 @@ DELETE_DATE=$(date -d "$num days ago" +%Y.%m.%d)
 
 echo "delete index logstash-$DELETE_DATE"
 # 或其他索引名称
-curl -XDELETE "http://10.126.14.41:9200/logstash-$DELETE_DATE"
+curl -XDELETE "http://host:port/logstash-$DELETE_DATE"
 
 done
