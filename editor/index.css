@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  text-align: center;
+}
+.editor {
+  border: 1px solid #e5e9f4;
+  width: 800px;
+  margin: 0 auto;
+}
+.editor-tool, .editor-container{
+  width: 100%;
+}
+.editor-tool {
+  height: 40px;
+  line-height: 40px;
+  background: #fbfdff;
+  border-bottom: 1px solid #e5e9f4;
+}
+.editor-tool span {
+  padding: 10px;
+  cursor: pointer;
+}
+.editor-tool span:hover {
+  background: #e5e9f4
+}
+
+.editor-content {
+  outline: none;
+  min-height: 500px;
+  padding: 12px;
+}
