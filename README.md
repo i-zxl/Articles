@@ -10,3 +10,6 @@
 
 ### 日志和数据分析
 - [Elasticsearch日常操作](https://github.com/i-zxl/Articles/issues/2)
+
+### 跨域
+- [Script error 看跨域问题](https://github.com/i-zxl/Articles/issues/7)
