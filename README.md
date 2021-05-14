@@ -7,13 +7,15 @@
 ### 杂项
 
 - [菲波那切数列数列实现了解尾递归优化](https://github.com/i-zxl/Articles/issues/1)
--
 
 ### 日志和数据分析
 - [Elasticsearch日常操作](https://github.com/i-zxl/Articles/issues/2)
 
 ### 跨域
 - [Script error 看跨域问题](https://github.com/i-zxl/Articles/issues/7)
+<<<<<<< HEAD
 
 ## JS 格式化规范
 - [JS 格式化](https://github.com/i-zxl/Articles/issues/9)
+=======
+>>>>>>> parent of c2c67b4... merge test-1
