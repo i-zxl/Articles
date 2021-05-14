@@ -10,3 +10,6 @@
 
 ### 日志和数据分析
 - [Elasticsearch日常操作](https://github.com/i-zxl/Articles/issues/2)
+
+### JS 注释规范
+- - [Elasticsearch日常操作](https://github.com/i-zxl/Articles/issues/8)
